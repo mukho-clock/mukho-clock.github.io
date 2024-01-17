@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb4495db.css",
+    "main.js": "/static/js/main.bf289160.js",
+    "static/js/787.27d44959.chunk.js": "/static/js/787.27d44959.chunk.js",
+    "static/media/BMHANNAPro.ttf": "/static/media/BMHANNAPro.6d112976783f574c849d.ttf",
+    "static/media/BMHANNAAir_ttf.ttf": "/static/media/BMHANNAAir_ttf.d0c38d74f11fd837be79.ttf",
+    "index.html": "/index.html",
+    "main.fb4495db.css.map": "/static/css/main.fb4495db.css.map",
+    "main.bf289160.js.map": "/static/js/main.bf289160.js.map",
+    "787.27d44959.chunk.js.map": "/static/js/787.27d44959.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4495db.css",
+    "static/js/main.bf289160.js"
+  ]
+}
